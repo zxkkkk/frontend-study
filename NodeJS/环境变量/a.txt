@@ -1,0 +1,1 @@
+Node.js 环境储存在 process.env.NODE_ENV

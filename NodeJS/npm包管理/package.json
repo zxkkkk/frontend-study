@@ -1,0 +1,20 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "小样模块",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "zxk",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^1.7.7"
+  },
+  "dependencies": {
+    "typescript": "^5.5.4"
+  }
+}
