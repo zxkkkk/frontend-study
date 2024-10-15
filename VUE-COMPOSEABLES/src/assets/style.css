@@ -1,0 +1,66 @@
+/* src/assets/styles.css */
+
+:root {
+  --background-color: #ffffff;
+  --text-color: #000000;
+  --button-bg-color: #3498db;
+  --button-hover-bg-color: #2980b9;
+  --button-disabled-bg-color: #bdc3c7;
+  --button-secondary-bg-color: #95a5a6;
+  --button-secondary-hover-bg-color: #7f8c8d;
+  --button-text-color: #ffffff;
+  --input-border-color: #ccc;
+  --input-focus-border-color: #3498db;
+  --error-color: #e74c3c;
+  --box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  --countdown-bg-color: #f9f9f9;
+  --countdown-text-color: #333;
+  --countdown-unit-color: #666;
+  --sms-bg-color: #f9f9f9;
+  --sms-title-color: #333;
+  --sms-label-color: #555;
+  --form-bg-color: #f9f9f9;
+  --form-title-color: #333;
+  --form-label-color: #555;
+}
+
+.dark {
+  --background-color: #121212;
+  --text-color: #ffffff;
+  --button-bg-color: #2ecc71;
+  --button-hover-bg-color: #27ae60;
+  --button-disabled-bg-color: #7f8c8d;
+  --button-secondary-bg-color: #95a5a6;
+  --button-secondary-hover-bg-color: #7f8c8d;
+  --button-text-color: #ffffff;
+  --input-border-color: #555;
+  --input-focus-border-color: #2ecc71;
+  --error-color: #e74c3c;
+  --box-shadow: 0 4px 6px rgba(255, 255, 255, 0.1);
+  --countdown-bg-color: #1e1e1e;
+  --countdown-text-color: #ffffff;
+  --countdown-unit-color: #cccccc;
+  --sms-bg-color: #1e1e1e;
+  --sms-title-color: #ffffff;
+  --sms-label-color: #cccccc;
+  --form-bg-color: #1e1e1e;
+  --form-title-color: #ffffff;
+  --form-label-color: #cccccc;
+}
+
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+  transition: background-color 0.3s, color 0.3s;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+h2 {
+  color: var(--text-color);
+}
+
+button {
+  font-family: inherit;
+}

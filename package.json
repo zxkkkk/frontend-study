@@ -1,13 +1,4 @@
 {
-<<<<<<< HEAD
-  "dependencies": {
-    "axios": "^1.7.7"
-  },
-  "devDependencies": {
-    "@types/node": "^22.7.0",
-    "element-plus": "^2.8.3",
-    "typescript": "^5.6.2"
-=======
   "name": "vue3-basic",
   "private": true,
   "version": "0.0.0",
@@ -18,12 +9,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "axios": "^1.7.7",
     "vue": "^3.4.37"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^5.1.2",
+    "@types/node": "^22.7.5",
+    "@vitejs/plugin-vue": "^5.1.4",
+    "@vueuse/core": "^11.1.0",
+    "element-plus": "^2.8.3",
     "sass-embedded": "^1.78.0",
+    "typescript": "^5.6.2",
     "vite": "^5.4.1"
->>>>>>> fcf95ce36662e6298094149ab776fe06af88fb6e
   }
 }

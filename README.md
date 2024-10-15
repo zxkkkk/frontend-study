@@ -1,18 +1,18 @@
 # frontend-study
 
-## Vue 3 + TypeScript学习文档
+## Vue 3 + TypeScript 学习文档
 
 <p align="center">
-<img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/logo.png" style="width:200px;"/>
+  <img src="https://via.placeholder.com/200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
 </p>
 
-无论你是初学者还是有经验的开发者，这个站点都会帮助你掌握最新的 Vue 3技术与 TypeScript实践，从基础到进阶，全方位提升你的前端开发能力。
+无论你是初学者还是有经验的开发者，这个站点都会帮助你掌握最新的 Vue 3 技术与 TypeScript 实践，从基础到进阶，全方位提升你的前端开发能力。
 
 ## Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+这个模板将帮助你开始使用 Vite 开发 Vue 3 应用。模板使用了 Vue 3 `<script setup>` SFC，查看 [script setup 文档](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) 了解更多。
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+了解有关 Vue 的 IDE 支持的更多信息，参见 [Vue 文档扩展指南](https://vuejs.org/guide/scaling-up/tooling.html#ide-support)。
 
 ## 特性
 
@@ -20,10 +20,12 @@ Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://
 - 涵盖从组件设计到代码优化的实际开发经验。
 - 通过 VitePress 和 TypeScript，快速搭建高效、可维护的 Vue 3 应用。
 
-![GitHub License](https://img.shields.io/github/license/mqxu/vue3-ts-docs)
-![GitHub Stars](https://img.shields.io/github/stars/mqxu/vue3-ts-docs)
-![GitHub Forks](https://img.shields.io/github/forks/mqxu/vue3-ts-docs)
-![Build Status](https://img.shields.io/github/workflow/status/mqxu/vue3-ts-docs/CI)
-![NPM Version](https://img.shields.io/npm/v/vue)
-![NPM Downloads](https://img.shields.io/npm/dw/vue)
-![Maintenance](https://img.shields.io/maintenance/yes/2024)
+<p align="center">
+  <img src="https://img.shields.io/github/license/mqxu/vue3-ts-docs" />
+  <img src="https://img.shields.io/github/stars/mqxu/vue3-ts-docs" />
+  <img src="https://img.shields.io/github/forks/mqxu/vue3-ts-docs" />
+  <img src="https://img.shields.io/github/workflow/status/mqxu/vue3-ts-docs/CI" />
+  <img src="https://img.shields.io/npm/v/vue" />
+  <img src="https://img.shields.io/npm/dw/vue" />
+  <img src="https://img.shields.io/maintenance/yes/2024" />
+</p>
