@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/vite-env.d.ts","./src/vue-quill-editor.d.ts","./src/vue-shims.d.ts","./src/interface/user.ts","./src/router/index.ts","./src/app.vue","./src/components/customquilleditor.vue","./src/components/loginform.vue","./src/components/registerform.vue","./src/views/questionpage.vue","./src/views/login.vue","./src/views/questionall.vue"],"version":"5.6.3"}
